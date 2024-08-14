@@ -7,3 +7,4 @@
                 pupils.comparisonInsideFaculty("Padma Patil", "Zhou Chang");
             }
         }
+

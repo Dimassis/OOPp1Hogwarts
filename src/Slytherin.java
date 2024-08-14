@@ -52,3 +52,4 @@ public class Slytherin extends Hogwarts {
                     ",\nАмбициозность = " + ambition + "\n";
         }
     }
+

@@ -80,4 +80,5 @@ public class Pupils {
         Random random = new Random();
         return Math.abs(random.nextInt(1, 11));
     }
+
 }

@@ -43,3 +43,4 @@ public class Hufflepuff extends Hogwarts {
                 ",\nЧестность = " + honest + "\n";
     }
 }
+

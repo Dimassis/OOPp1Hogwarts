@@ -36,3 +36,4 @@ public class Hogwarts {
             return comparisonOne();
         }
     }
+
